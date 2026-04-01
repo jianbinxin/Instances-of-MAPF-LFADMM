@@ -1,2 +1,2 @@
 # Instances-of-MAPF-LFADMM
-Instances of MAPF using Learning-based fast ADMM
+Instances of MAPF using Learning-based Fast ADMM
